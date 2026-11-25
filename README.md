@@ -1,4 +1,4 @@
 # GitDemo
-This is our first repo
+This is our first repository
 Author: Tek Bahadur Sawad
 
